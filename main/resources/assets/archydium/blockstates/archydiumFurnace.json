@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "archydium:ArchydiumFurnace" },
+        "facing=south": { "model": "archydium:ArchydiumFurnace", "y": 180 },
+        "facing=west":  { "model": "archydium:ArchydiumFurnace", "y": 270 },
+        "facing=east":  { "model": "archydium:ArchydiumFurnace", "y": 90 }
+    }
+}

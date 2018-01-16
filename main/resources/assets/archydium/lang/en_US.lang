@@ -1,0 +1,39 @@
+item.ArchydiumIngot.name=Archydium 
+item.ArchydiumPickaxe.name= Archydium Pickaxe
+item.ArchydiumSword.name=Archydium Sword
+item.ArchydiumHelmet.name=Archydium Helmet
+item.ArchydiumChestplate.name=Archydium Chestplate
+item.ArchydiumLeggings.name=Archydium Leggings
+item.ArchydiumBoots.name=Archydium Boots
+item.CompressedArchydium.name=Compressed Archydium
+item.ArchydiumStick.name=Archydium Stick
+item.ArchydiumAxe.name=Archydium Axe
+item.ArchydiumShovel.name=Archydium Shovel
+item.ArchyPower.name=Archydium PowerStick
+item.ArpazIngot.name=Arpaz
+item.PremiumLeather.name=Premium Leather
+item.ArchyHang.name= Archydium HangGlider
+item.Dynamite.name=Dynamite
+item.archydiumSteak.name=Archydium Steak(For escape)
+item.ArchyHammer.name=Archydium Hammer
+item.ArchyPack.name=Archydium BackPack
+
+item.Arzot.name= Arzot
+item.ArchydiumSteak.name= Archydium Steak
+item.ArchyBushItem.name= Archydium XP
+
+tile.ArchyBush.name=Archydium Bush
+tile.ArchydiumBlock.name=Archydium Block
+tile.oreArchydium.name=Archydium Ore
+
+tile.ArpazOre.name=Arpaz Ore
+tile.ArpazBlock.name=Arpaz Block
+tile.ArchydiumFurnace.name=Archydium Furnace
+tile.ArzotOre.name=Arzot Ore
+
+itemGroup.ArchyMod=Archydium 
+
+
+
+
+

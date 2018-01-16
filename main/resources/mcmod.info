@@ -1,0 +1,16 @@
+[
+{
+  "modid": "archydium",
+  "name": "Archymod",
+  "description": "Archydium Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "archydium.ovh/forum",
+  "updateUrl": "",
+  "authorList": ["DarkProd"],
+  "credits": "Archydium Mod Copyright 2017.",
+  "logoFile": "/archylogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

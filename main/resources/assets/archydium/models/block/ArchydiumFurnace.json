@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "archydium:blocks/ArchydiumFurnace",
+        "front": "archydium:blocks/ArchydiumFurnace_Front",
+        "side": "archydium:blocks/ArchydiumFurnace"
+    }
+}

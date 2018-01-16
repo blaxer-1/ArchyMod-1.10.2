@@ -1,0 +1,84 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "archydium:archyBush",
+        "textures": {
+            "0": "archydium:blocks/archyBush_FALSE",
+            "particle": "archydium:blocks/archyBush_FALSE"
+        }
+    },
+    "variants": {
+        "inventory": [{
+            "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_TRUE"
+            }
+        }],
+        "lvl": {
+            0: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            1: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            2: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            3: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            4: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            5: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            6: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            7: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            8: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            9: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            10: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            11: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            12: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            13: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            14: { "textures": {
+                "0": "archydium:blocks/archyBush_FALSE",
+                "particle": "archydium:blocks/archyBush_FALSE"
+            }},
+            15: { "textures": {
+                "0": "archydium:blocks/archyBush_TRUE",
+                "particle": "archydium:blocks/archyBush_TRUE"
+            }}
+        }
+    }
+}
